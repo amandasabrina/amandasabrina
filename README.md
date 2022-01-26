@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Amanda and I'm from Brazil. I've been working as Front-End Developer since 2019 at Dinari Securitizadora S/A – Soluções Financeiras and I'm currently learning more about technologies such as javascript, jquery, react, CSS, bootstrap and php.
+My name is Amanda and I'm from Brazil. I've been working as Front-End Developer since 2019 at DinariPay and I'm currently learning more about technologies such as javascript, jquery, react, vue, CSS, bootstrap and php.
 
 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-sabrina-aschar-jorge-942b6b101)](https://www.linkedin.com/in/amanda-sabrina-aschar-jorge-942b6b101)
