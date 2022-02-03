@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Amanda and I'm from Brazil. I've been working as Front-End Developer since 2020 at DinariPay and I'm currently learning more about technologies such as php and laravel to become a fullstack developer (: Apart from that, I'm constantly learning new features of javascript besides digging in frameworks such as react.js and vue.js.
+My name is Amanda and I'm from Brazil. I've been working as Front-End Developer since 2020 at DinariPay and I'm currently learning more about technologies such as php and laravel to become a fullstack developer (: 
+Apart from that, I'm constantly learning new features of javascript besides digging in frameworks such as react.js and vue.js.
 
 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-sabrina-aschar-jorge-942b6b101)](https://www.linkedin.com/in/amanda-sabrina-aschar-jorge-942b6b101)
